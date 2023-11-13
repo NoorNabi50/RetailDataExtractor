@@ -43,6 +43,10 @@ namespace DobaWebScraper
                 slug = value.ToLower().Replace(" ","-");
             }
         }
+
+        public int EntityId { get; set; }
+
+        public int ProductCategoryId { get; set; }
     }
 
     internal class ProductAttributes

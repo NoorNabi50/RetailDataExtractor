@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DobaWebScraper", "DobaWebScraper.csproj", "{FBBEE414-9E5B-49F1-BFF6-88C2153F0712}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomWebScraper", "CustomWebScraper.csproj", "{FBBEE414-9E5B-49F1-BFF6-88C2153F0712}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
